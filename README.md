@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Matt 👋
+
+* 💼 I'm a Senior Software Engineering Manager at PayIt
+* 🔭 When I get hands-on, which isn't all that often these days, it's probably writing MongoDB queries, shell scripts, or tuning kubernetes deployments
+* 🌱 I’m currently learning how to manage multiple teams. Also Terraform and the GitHub CLI
+* 💬 Ask me about: getting into software engineering without a computer science degree
+* 📫 How to reach me: Twitter is good: [@menzenski](https://twitter.com/menzenski), or [LinkedIn](https://www.linkedin.com/in/menzenski/)
+* 😄 My pronouns: he/him
+* ⚡ Fun fact: I'm fluent in Russian. Or was a few years ago, anyway. I was doing a PhD in Slavic Linguistics before dropping out to pursue software engineering
 
 <!--
 **menzenski/menzenski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
