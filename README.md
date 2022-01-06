@@ -1,9 +1,8 @@
 ### I'm hiring!
 
-Come work with me! PayIt is growing our Data team and we are looking for a Data Engineering Manager and a Data Engineer. Check out these job postings:
+Come work with me! PayIt is growing our Data team and we are looking for a Data Engineering Manager. Check out this job posting:
 
 * [Data Engineering Manager](https://payitgov.com/careers-list?gh_jid=4701703003)
-* [Data Engineer](https://payitgov.com/careers-list?gh_jid=4764360003)
 
 
 ### Hi, I'm Matt 👋
