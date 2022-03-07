@@ -1,15 +1,8 @@
-### I'm hiring!
+## Hi, I'm Matt 👋
 
-Come work with me! PayIt is growing our Data team and we are looking for a Data Engineering Manager. Check out this job posting:
-
-* [Data Engineering Manager](https://payitgov.com/careers-list?gh_jid=4701703003)
-
-
-### Hi, I'm Matt 👋
-
-* 💼 I'm a Senior Software Engineering Manager at PayIt
-* 🔭 When I get hands-on, which isn't all that often these days, it's probably writing MongoDB queries, shell scripts, or tuning kubernetes deployments
-* 🌱 I’m currently learning how to manage multiple teams. Also Terraform and the GitHub CLI
+* 💼 I'm a Senior Software Engineering Manager at PayIt, on our Data Engineering team.
+* 🔭 When I get hands-on, I'm most likely writing Terraform modules, writing MongoDB aggregations, or tuning Kubernetes deployments.
+* 🌱 I’m currently learning Liquibase (database CI/CD), and improving my knowledge of AWS Glue.
 * 💬 Ask me about: getting into software engineering without a computer science degree
 * 📫 How to reach me: Twitter is good: [@menzenski](https://twitter.com/menzenski), or [LinkedIn](https://www.linkedin.com/in/menzenski/)
 * 😄 My pronouns: he/him
