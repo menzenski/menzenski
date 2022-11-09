@@ -4,7 +4,7 @@
 * 🔭 When I get hands-on, I'm most likely writing Terraform modules, writing MongoDB aggregations, or tuning Kubernetes deployments.
 * 🌱 I’m currently learning Liquibase (database CI/CD), and improving my knowledge of AWS Glue.
 * 💬 Ask me about: getting into software engineering without a computer science degree
-* 📫 How to reach me: Twitter is good: [@menzenski](https://twitter.com/menzenski), or [LinkedIn](https://www.linkedin.com/in/menzenski/)
+* 📫 How to reach me: Mastodon is best: [@menzenski@kcmo.social](https://kcmo.social/@menzenski), or [LinkedIn](https://www.linkedin.com/in/menzenski/)
 * 😄 My pronouns: he/him
 * ⚡ Fun fact: I'm fluent in Russian. Or was a few years ago, anyway. I was doing a PhD in Slavic Linguistics before dropping out to pursue software engineering
 
