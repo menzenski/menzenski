@@ -1,8 +1,24 @@
+
+```
+      ___           ___           ___       ___       ___                    ___           ___           ___           ___           ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \                  /\  \         /\__\         /\  \         /\  \         /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \                 \:\  \       /:/  /        /::\  \       /::\  \       /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \                 \:\  \     /:/__/        /:/\:\  \     /:/\:\  \     /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \                /::\  \   /::\  \ ___   /::\~\:\  \   /::\~\:\  \   /::\~\:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\              /:/\:\__\ /:/\:\  /\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /             /:/  \/__/ \/__\:\/:/  / \:\~\:\ \/__/ \/_|::\/:/  / \:\~\:\ \/__/
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  /             /:/  /           \::/  /   \:\ \:\__\      |:|::/  /   \:\ \:\__\  
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /              \/__/            /:/  /     \:\ \/__/      |:|\/__/     \:\ \/__/  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /                               /:/  /       \:\__\        |:|  |        \:\__\    
+     \/__/         \/__/         \/__/     \/__/     \/__/                                \/__/         \/__/         \|__|         \/__/   
+```
+
+
+
 ## Hi, I'm Matt 👋
 
 * 💼 I'm a Senior Software Engineering Manager at PayIt, on our Data Engineering team.
-* 🔭 When I get hands-on, I'm most likely writing Terraform modules, writing MongoDB aggregations, or tuning Kubernetes deployments.
-* 🌱 I’m currently learning Liquibase (database CI/CD), and improving my knowledge of AWS Glue.
+* 🌱 These days, I'm mostly working with [Meltano](https://meltano.com/) and [dbt](https://www.getdbt.com/).
 * 💬 Ask me about: getting into software engineering without a computer science degree
 * 📫 How to reach me: Mastodon is best: [@matt@me.nzen.ski](https://me.nzen.ski/@matt), or [LinkedIn](https://www.linkedin.com/in/menzenski/)
 * 😄 My pronouns: he/him
