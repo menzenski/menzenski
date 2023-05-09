@@ -1,16 +1,11 @@
 
 ```
-      ___           ___           ___       ___       ___                    ___           ___           ___           ___           ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \                  /\  \         /\__\         /\  \         /\  \         /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \                 \:\  \       /:/  /        /::\  \       /::\  \       /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \                 \:\  \     /:/__/        /:/\:\  \     /:/\:\  \     /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \                /::\  \   /::\  \ ___   /::\~\:\  \   /::\~\:\  \   /::\~\:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\              /:/\:\__\ /:/\:\  /\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /             /:/  \/__/ \/__\:\/:/  / \:\~\:\ \/__/ \/_|::\/:/  / \:\~\:\ \/__/
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  /             /:/  /           \::/  /   \:\ \:\__\      |:|::/  /   \:\ \:\__\  
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /              \/__/            /:/  /     \:\ \/__/      |:|\/__/     \:\ \/__/  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /                               /:/  /       \:\__\        |:|  |        \:\__\    
-     \/__/         \/__/         \/__/     \/__/     \/__/                                \/__/         \/__/         \|__|         \/__/   
+            _ _         _____ _                     _ 
+  /\  /\___| | | ___   /__   \ |__   ___ _ __ ___  / \
+ / /_/ / _ \ | |/ _ \    / /\/ '_ \ / _ \ '__/ _ \/  /
+/ __  /  __/ | | (_) |  / /  | | | |  __/ | |  __/\_/ 
+\/ /_/ \___|_|_|\___/   \/   |_| |_|\___|_|  \___\/   
+                                                      
 ```
 
 
@@ -18,7 +13,7 @@
 ## Hi, I'm Matt 👋
 
 * 💼 I'm a Senior Software Engineering Manager at PayIt, on our Data Engineering team.
-* 🌱 These days, I'm mostly working with [Meltano](https://meltano.com/) and [dbt](https://www.getdbt.com/).
+* 🌱 These days, I'm mostly working with data pipelines: [Meltano](https://meltano.com/) to extract and load, [dbt](https://www.getdbt.com/) to transform, [Argo Workflows](https://argoproj.github.io/argo-workflows/) (with [Hera](https://hera.readthedocs.io/en/latest/)) to orchestrate.
 * 💬 Ask me about: getting into software engineering without a computer science degree
 * 📫 How to reach me: Mastodon is best: [@matt@me.nzen.ski](https://me.nzen.ski/@matt), or [LinkedIn](https://www.linkedin.com/in/menzenski/)
 * 😄 My pronouns: he/him
