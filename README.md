@@ -12,7 +12,7 @@
 
 ## Hi, I'm Matt 👋
 
-* 💼 I'm a Senior Software Engineering Manager at PayIt, I lead our Data Engineering and Platform Engineering teams.
+* 💼 I'm a Principal Data Engineer at PayIt, working on building out the next generation of our data platform.
 * 🌱 These days, I'm mostly working with data pipelines: [Meltano](https://meltano.com/) to extract and load, [dbt](https://www.getdbt.com/) to transform, [Argo Workflows](https://argoproj.github.io/argo-workflows/) (with [Hera](https://hera.readthedocs.io/en/latest/)) to orchestrate.
 * 💬 Ask me about: getting into software engineering without a computer science degree
 * 📫 How to reach me: Mastodon is best: [@matt@me.nzen.ski](https://me.nzen.ski/@matt), or [LinkedIn](https://www.linkedin.com/in/menzenski/)
